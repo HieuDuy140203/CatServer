@@ -28,7 +28,7 @@ function App() {
     }
 
     // server url - change it when deployed
-    const apiUrl = `https://catconnect-i97o.onrender.com/users/resetpassword`;
+    const apiUrl = `https://catconnect-6l4n.onrender.com/users/reset-password`;
     // `http://localhost:8800/api-v1/users/reset-password`;
     // const apiUrl = `${process.env.REACT_APP_URL}/users/reset-password`;
 
