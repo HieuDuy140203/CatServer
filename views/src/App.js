@@ -76,7 +76,7 @@ function App() {
           {message}
         </div>
         {statusParam === "success" && (
-          <a href={url} id="btnLogin" className="showBtn">
+          <a href={`https://catconnect.netlify.app/login`} id="btnLogin" className="showBtn">
             Login
           </a>
         )}
